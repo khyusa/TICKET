@@ -1,0 +1,68 @@
+Müşteri: Hündür Bilişim
+Kim: Yuşa Efe
+Konu: Mikro Destek
+Açıklama: 
+Sistem arızası.
+Müşteri: Hündür Bilişim
+Kim: Cem Samet
+Konu: Bilgisayar Destek
+Açıklama: 
+Eksik ve yetersiz bilgisayar parçaları
+Müşteri: Cevizoğlu
+Kim: Adsız Kişi
+Konu: Randevu
+Açıklama: 
+İş randevusu.
+Hündür Bilişim
+Cevizoğlu
+Müşteri: Hündür Bilişim
+Kim: Yuşa Efe
+Konu: Mikro Destek
+Açıklama: 
+Sistem arızası.
+Müşteri: Hündür Bilişim
+Kim: Cem Samet
+Konu: Bilgisayar Destek
+Açıklama: 
+Eksik ve yetersiz bilgisayar parçaları
+Müşteri: Cevizoğlu
+Kim: Adsız Kişi
+Konu: Randevu
+Açıklama: 
+İş randevusu.
+Hündür Bilişim
+Cevizoğlu
+Müşteri: Hündür Bilişim
+Kim: Yuşa Efe
+Konu: Mikro Destek
+Açıklama: 
+Sistem arızası.
+Müşteri: Hündür Bilişim
+Kim: Cem Samet
+Konu: Bilgisayar Destek
+Açıklama: 
+Eksik ve yetersiz bilgisayar parçaları
+Müşteri: Cevizoğlu
+Kim: Adsız Kişi
+Konu: Randevu
+Açıklama: 
+İş randevusu.
+Hündür Bilişim
+Cevizoğlu
+Müşteri: Hündür Bilişim
+Kim: Yuşa Efe
+Konu: Mikro Destek
+Açıklama: 
+Sistem arızası.
+Müşteri: Hündür Bilişim
+Kim: Cem Samet
+Konu: Bilgisayar Destek
+Açıklama: 
+Eksik ve yetersiz bilgisayar parçaları
+Müşteri: Cevizoğlu
+Kim: Adsız Kişi
+Konu: Randevu
+Açıklama: 
+İş randevusu.
+Hündür Bilişim
+Cevizoğlu
